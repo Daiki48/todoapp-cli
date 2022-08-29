@@ -2,6 +2,12 @@
 
 CLI's Todo App.
 
+## Feature
+
+- todo add
+- todo complete
+- todo save
+
 ## Usage
 
 ### For Example

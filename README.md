@@ -2,6 +2,8 @@
 
 CLI's Todo App.
 
+[Japanese article](https://zenn.dev/daiki_record/articles/a5d9f8312fdfc8)
+
 ## Feature
 
 - todo add

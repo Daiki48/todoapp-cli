@@ -25,3 +25,8 @@ confirmation
 ```
 $ cat ./data/db.json
 ```
+
+## Additional Functions
+
+- todo delete
+- todo content update
